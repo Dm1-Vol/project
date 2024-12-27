@@ -1,4 +1,4 @@
 ﻿program Helloworld;
 begin
-   Writlen('Hello, world');
+   Writlen('Hello,, world');
 end.
